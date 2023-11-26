@@ -1,10 +1,7 @@
+Ruby installation on Vagrant 
 
-+ 44
-− 0
-<!-- # Ruby-rbenv installation on Vagrant 
+This repository contains the configuration files and setup for a Vagrant environment with Ruby.
 
-<!-- This repository contains the configuration files and setup for a Vagrant environment with Postgresql. -->
-```bash
 # Setup Instructions
 
 # 1. Clone this repository.
@@ -44,4 +41,4 @@
 # 13. Check the ruby version:
      ruby -v
      3.2.2
-   -->
+  
